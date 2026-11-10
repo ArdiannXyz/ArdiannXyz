@@ -75,10 +75,10 @@ Halo! Saya **Ardian**, seorang mahasiswa Teknologi Informasi di **Politeknik Neg
 
 | Proyek | Deskripsi | Tech Stack | Repositori |
 | :--- | :--- | :--- | :---: |
-| **📱 Mobile D-Kost** | Aplikasi mobile modern untuk manajemen rumah kost dan pemesanan kamar secara efisien. | `Flutter` `Dart` `REST API` | [**Lihat Kode →**](https://github.com/ArdiannXyz/Mobile-D-Kost) |
+| **📱 Apps D-Kost** | Aplikasi mobile modern untuk manajemen rumah kost dan pemesanan kamar secara efisien. | `Flutter` `Dart` `REST API` | [**Lihat Kode →**](https://github.com/ArdiannXyz/Mobile-D-Kost) |
+| **🦯 Smart Cane Project** | Tongkat pintar berbasis IoT & Computer Vision untuk tunanetra dengan ESP32-CAM & Flask. | `Python` `Flask` `IoT` `ESP32` | [**Lihat Kode →**](https://github.com/ArdiannXyz/Smart_cane_project) |
 | **💻 Laravel Flowbite Dashboard** | Dashboard admin modern dan responsif dengan arsitektur Laravel 11 serta komponen Tailwind. | `Laravel 11` `Tailwind` `Flowbite` | [**Lihat Kode →**](https://github.com/ArdiannXyz/laravel-flowbite-admin-dashboard) |
 | **🐳 Laravel Minikube (DevOps)** | Implementasi kontainerisasi aplikasi Laravel dan orkestrasi cluster lokal menggunakan Kubernetes/Minikube. | `Laravel` `Docker` `Kubernetes` | [**Lihat Kode →**](https://github.com/ArdiannXyz/laravel-minikube) |
-| **🌐 AreaKerja Platform** | Platform terintegrasi web dan mobile untuk ekosistem rekrutmen dan pencarian peluang kerja. | `Laravel` `Flutter` `MySQL` | [**Lihat Kode →**](https://github.com/ArdiannXyz/AreaKerja_web) |
 
 ---
 
