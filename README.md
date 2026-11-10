@@ -14,10 +14,18 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+Mobile+Developer;Laravel+%2B+Modern+Mobile+Apps;Passionate+about+Clean+Architecture;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+Mobile+Developer;Laravel+%2B+Modern+Mobile+Apps;Leveling+Up+Every+Day+🎮;Always+Building+%26+Learning" alt="Typing SVG" />
   </a>
 
 </div>
+
+---
+
+### 🎮 Developer Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArdiannXyz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Ardian's Trophies" />
+</p>
 
 ---
 
@@ -31,7 +39,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Arsenal
 
 #### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -57,6 +65,14 @@
 
 ---
 
+### 🕹️ Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
@@ -71,5 +87,5 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Leveling up one commit at a time." 🚀</i>
 </p>
