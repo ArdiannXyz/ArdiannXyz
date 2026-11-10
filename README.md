@@ -5,7 +5,9 @@
 
   <!-- Dynamic Typing SVG Animation -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+and+Mobile+Developer;Laravel+and+RESTful+API+Architect;Flutter+and+Mobile+App+Engineer;DevOps+and+Cloud+Enthusiast;Continuous+Learner+and+Builder" alt="Typing SVG" />
+    <a href="#about-me">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+and+Mobile+Developer;Laravel+and+RESTful+API+Architect;Flutter+and+Mobile+App+Engineer;DevOps+and+Cloud+Enthusiast;Continuous+Learner+and+Builder" alt="Typing SVG" />
+    </a>
   </p>
 
   <!-- Quick Badges & Profile Views -->
@@ -19,14 +21,22 @@
     <a href="https://github.com/ArdiannXyz">
       <img src="https://img.shields.io/badge/GitHub-ArdiannXyz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Campus-Politeknik%20Negeri%20Jember-003366?style=flat-square&logo=google-classroom&logoColor=white" alt="Politeknik Negeri Jember" />
-    <img src="https://img.shields.io/badge/Location-Indonesia-FF0000?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-22C55E?style=flat-square&logo=gitbook&logoColor=white" alt="Open for Collaboration" />
+    <a href="https://polije.ac.id" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Campus-Politeknik%20Negeri%20Jember-003366?style=flat-square&logo=google-classroom&logoColor=white" alt="Politeknik Negeri Jember" />
+    </a>
+    <a href="https://id.wikipedia.org/wiki/Indonesia" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Location-Indonesia-FF0000?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    </a>
+    <a href="mailto:kaptenstayy@gmail.com">
+      <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-22C55E?style=flat-square&logo=gitbook&logoColor=white" alt="Open for Collaboration" />
+    </a>
   </p>
 
 </div>
 
 ---
+
+<div id="about-me"></div>
 
 ### 👨‍💻 About Me
 
@@ -43,8 +53,10 @@ Halo! Saya **Ardian**, seorang mahasiswa Teknologi Informasi di **Politeknik Neg
 
 ### 🛠️ Tech Stack & Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,kotlin,java,js,tailwind,bootstrap,mysql,firebase,docker,linux,git,github,postman,vscode,androidstudio&perline=9" alt="Tech Stack Icons" />
+<div id="tech-stack" align="center">
+  <a href="#tech-stack">
+    <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,kotlin,java,js,tailwind,bootstrap,mysql,firebase,docker,linux,git,github,postman,vscode,androidstudio&perline=9" alt="Tech Stack Icons" />
+  </a>
 </div>
 
 <br/>
@@ -72,25 +84,33 @@ Halo! Saya **Ardian**, seorang mahasiswa Teknologi Informasi di **Politeknik Neg
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ArdiannXyz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArdiannXyz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<div id="github-metrics" align="center">
+  <a href="#github-metrics">
+    <img src="https://github-stats-extended.vercel.app/api?username=ArdiannXyz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="#github-metrics">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArdiannXyz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArdiannXyz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="#github-metrics">
+    <img src="https://streak-stats.demolab.com?user=ArdiannXyz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake.svg" width="100%">
-  </picture>
+<div id="snake-game" align="center">
+  <a href="#snake-game">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake.svg">
+      <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake.svg" width="100%">
+    </picture>
+  </a>
 </div>
 
 ---
