@@ -1,79 +1,95 @@
+<!-- ================= HEADER BANNER ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24&height=230&section=header&text=Hi,%20I'm%20Ardian%20👋&fontSize=58&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Web%20%26%20Mobile%20App%20Developer&descSize=20&descAlignY=58&descAlign=50" width="100%"/>
+</div>
+
+<!-- ================= ANIMATED TYPING & BADGES ================= -->
 <div align="center">
 
-  # Hi there, I'm Ardian 👋
-  ### 🚀 Full-Stack Web Developer | Laravel Enthusiast
-
-  <p align="center">
-    <a href="mailto:kaptenstayy@gmail.com">
-      <img src="https://img.shields.io/badge/Email-kaptenstayy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/ArdiannXyz">
-      <img src="https://img.shields.io/badge/GitHub-ArdiannXyz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-
-  <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Crafting+Scalable+Web+Applications;Laravel+%2B+Tailwind+CSS;Passionate+about+Clean+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+App+Developer;Building+Scalable+Web+Platforms+with+Laravel;Crafting+Fluid+%26+Intuitive+Mobile+Applications;Designing+Seamless+RESTful+API+Architectures;Turning+Complex+Ideas+into+Clean+Production+Code" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- QUICK ACTION BADGES -->
+  <a href="mailto:kaptenstayy@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-kaptenstayy%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ArdiannXyz">
+    <img src="https://img.shields.io/badge/GitHub-ArdiannXyz-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ArdiannXyz&color=10b981&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+---
+
+### 👨‍💻 About Me
+
+Saya adalah seorang **Full-Stack Web & Mobile Developer** asal Indonesia 🇮🇩 yang berfokus membangun solusi digital menyeluruh (*end-to-end*). Menggabungkan keandalan arsitektur **Backend & API Laravel** dengan kelancaran antarmuka **Aplikasi Mobile**.
+
+- 📱 **Mobile Engineering:** Mengembangkan aplikasi mobile modern, responsif, dan terintegrasi *real-time* dengan cloud.
+- 🌐 **Web Architecture:** Merancang platform web terukur, dashboard interaktif, serta RESTful API yang aman dan efisien.
+- 🎯 **Prinsip Utama:** Kode yang bersih (*clean code*), terstruktur, performa tinggi, dan pengalaman pengguna (*UI/UX*) yang memanjakan.
+- 🤝 **Ketersediaan:** Terbuka untuk proyek *freelance*, kolaborasi, maupun peluang kerja profesional.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+  <p><b>📱 Mobile Development</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,react,firebase&perline=6" alt="Mobile Stack" />
+  </a>
+  <br/><br/>
+
+  <p><b>🌐 Web & Backend Engineering</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,tailwind,html,css&perline=7" alt="Web Stack" />
+  </a>
+  <br/><br/>
+
+  <p><b>⚙️ Tools, IDEs & Workflow</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,git,github,vite,figma&perline=7" alt="Tools" />
   </a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 **Current Focus:** Developing modern web platforms, backend architectures, and booking/management systems.
-- ⚡ **Flagship Project:** **[Josera-Stay](https://github.com/ArdiannXyz/Josera-Stay)** — A modern property & stay booking platform built with Laravel 12 & Tailwind CSS.
-- 🌱 **Learning & Exploring:** Advanced API design, clean architecture, and modern DevOps workflows.
-- 💬 **Ask me about:** PHP, Laravel, REST APIs, Database Design, and Tailwind CSS.
-- 🎯 **Goal:** Building impactful, efficient, and user-centric software solutions.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Backend & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-</p>
-
-#### **Frontend & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### **Development Tools & Testing**
-<p align="left">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Pest_PHP-0175C2?style=for-the-badge&logo=php&logoColor=white" alt="Pest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Analytics & Real-Time Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArdiannXyz&show_icons=true&theme=tokyonight&hide_border=false" alt="Ardian's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdiannXyz&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="165" />
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=ArdiannXyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" height="175" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdiannXyz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981" height="175" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdiannXyz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdiannXyz&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981" alt="Streak Stats" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArdiannXyz&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=10B981" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+<!-- ================= FOOTER ================= -->
+<div align="center">
+  <p><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24&height=90&section=footer" width="100%"/>
+</div>
