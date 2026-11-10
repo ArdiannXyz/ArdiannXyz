@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:1e1e38,100:2563eb&height=220&section=header&text=Hi,%20I'm%20Ardian%20👋&fontSize=42&fontAlignY=36&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Ardian's Header Banner" />
+  <h1>Hi there, I'm Ardian 👋</h1>
+  <h3>🚀 Full-Stack Web & Mobile Developer</h3>
 
   <!-- Dynamic Typing SVG Animation -->
-  <a href="https://github.com/ArdiannXyz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+%26+Mobile+Developer;Laravel+%2B+RESTful+API+Architect;Flutter+%26+Cross-Platform+Mobile+Apps;DevOps+%26+Cloud+Enthusiast;Continuous+Learner+%26+Tech+Builder" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+and+Mobile+Developer;Laravel+and+RESTful+API+Architect;Flutter+and+Mobile+App+Engineer;DevOps+and+Cloud+Enthusiast;Continuous+Learner+and+Builder" alt="Typing SVG" />
+  </p>
 
   <!-- Quick Badges & Profile Views -->
   <p align="center">
@@ -59,28 +59,22 @@ Halo! Saya **Ardian**, seorang mahasiswa Teknologi Informasi di **Politeknik Neg
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/ArdiannXyz/Mobile-D-Kost">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArdiannXyz&repo=Mobile-D-Kost&theme=tokyonight&hide_border=true" alt="Mobile-D-Kost" />
-  </a>
-  <a href="https://github.com/ArdiannXyz/laravel-flowbite-admin-dashboard">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArdiannXyz&repo=laravel-flowbite-admin-dashboard&theme=tokyonight&hide_border=true" alt="laravel-flowbite-admin-dashboard" />
-  </a>
-  <br/>
-  <a href="https://github.com/ArdiannXyz/laravel-minikube">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ArdiannXyz&repo=laravel-minikube&theme=tokyonight&hide_border=true" alt="laravel-minikube" />
-  </a>
-</div>
+| Proyek | Deskripsi | Tech Stack | Repositori |
+| :--- | :--- | :--- | :---: |
+| **📱 Mobile D-Kost** | Aplikasi mobile modern untuk manajemen rumah kost dan pemesanan kamar secara efisien. | `Flutter` `Dart` `REST API` | [**Lihat Kode →**](https://github.com/ArdiannXyz/Mobile-D-Kost) |
+| **💻 Laravel Flowbite Dashboard** | Dashboard admin modern dan responsif dengan arsitektur Laravel 11 serta komponen Tailwind. | `Laravel 11` `Tailwind` `Flowbite` | [**Lihat Kode →**](https://github.com/ArdiannXyz/laravel-flowbite-admin-dashboard) |
+| **🐳 Laravel Minikube (DevOps)** | Implementasi kontainerisasi aplikasi Laravel dan orkestrasi cluster lokal menggunakan Kubernetes/Minikube. | `Laravel` `Docker` `Kubernetes` | [**Lihat Kode →**](https://github.com/ArdiannXyz/laravel-minikube) |
+| **🌐 AreaKerja Platform** | Platform terintegrasi web dan mobile untuk ekosistem rekrutmen dan pencarian peluang kerja. | `Laravel` `Flutter` `MySQL` | [**Lihat Kode →**](https://github.com/ArdiannXyz/AreaKerja_web) |
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdiannXyz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdiannXyz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ArdiannXyz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArdiannXyz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -93,9 +87,9 @@ Halo! Saya **Ardian**, seorang mahasiswa Teknologi Informasi di **Politeknik Neg
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ArdiannXyz/ArdiannXyz/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
@@ -103,11 +97,13 @@ Halo! Saya **Ardian**, seorang mahasiswa Teknologi Informasi di **Politeknik Neg
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:1e1e38,100:2563eb&height=100&section=footer" width="100%" alt="Footer Banner" />
-
-  <br/>
   <i>"Crafting clean code, scalable architecture, and leveling up one commit at a time." 🚀</i>
-  <br/>
+
+  <p align="center">
+    <a href="mailto:kaptenstayy@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-kaptenstayy%40gmail.com-0284c7?style=flat-square&logo=gmail&logoColor=white" alt="Email Me"/></a>
+    <a href="https://github.com/ArdiannXyz"><img src="https://img.shields.io/badge/Follow-ArdiannXyz-181717?style=flat-square&logo=github&logoColor=white" alt="Follow GitHub"/></a>
+  </p>
+
   <sub>© Ardian • Built with Passion & Continuous Learning</sub>
 
 </div>
